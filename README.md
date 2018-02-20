@@ -18,10 +18,10 @@ For **Laravel 5.6**, please use version 3.0.0+
 composer require simexis/laravel-ajax-redirector
 ```
 
-Register the service provider in app.php
+After updating composer, add the service provider to the `providers` array in `config/app.php` for Laravel version < 5.5.*
 ```php
 'providers' => [
-    Simexis\AjaxRedirector\AjaxRedirectServiceProvider::class,
+    Superbalist\AjaxRedirector\AjaxRedirectServiceProvider::class,
 ]
 ```
 
