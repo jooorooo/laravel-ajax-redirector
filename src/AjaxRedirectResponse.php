@@ -1,6 +1,6 @@
 <?php
 
-namespace Simexis\AjaxRedirector;
+namespace Superbalist\AjaxRedirector;
 
 use Illuminate\Http\RedirectResponse;
 
