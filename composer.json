@@ -1,11 +1,11 @@
 {
-  "name": "superbalist/laravel-ajax-redirector",
+  "name": "simexis/laravel-ajax-redirector",
   "description": "A Laravel library for handling ajax redirects",
   "license": "MIT",
   "authors": [
     {
-      "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@superbalist.com"
+      "name": "Georgi Nachev",
+      "email": "jooorooo@gmail.com"
     }
   ],
   "require": {
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Superbalist\\AjaxRedirector\\": "src/"
+      "Simexis\\AjaxRedirector\\": "src/"
     }
   },
   "extra": {

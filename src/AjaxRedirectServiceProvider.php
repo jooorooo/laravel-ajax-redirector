@@ -1,6 +1,6 @@
 <?php
 
-namespace Superbalist\AjaxRedirector;
+namespace Simexis\AjaxRedirector;
 
 use Illuminate\Support\ServiceProvider;
 
